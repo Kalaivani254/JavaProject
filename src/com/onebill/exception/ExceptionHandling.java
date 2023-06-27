@@ -14,7 +14,7 @@ public class ExceptionHandling {
 		}
 		catch(Exception e)
 		{
-			System.out.println("Division by zero error");
+			System.out.println("Division by zero errors");
 			
 		}
 		
